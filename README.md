@@ -1,21 +1,21 @@
 <div id="header" align="center">
   <img src="https://yt3.ggpht.com/djOFfRQsj45xwzEGcq4o39qPYe3AhYn9cVl8rwySnUQytZuT18OkQ2xf3PkuSvhQMpmVDOWlGeTjoRA=s480-c-fcrop64=1,2e9c0000bea9ffff-nd-v1" width="350"/>
-  <div id="badges">
+</div>
+<div id="badges" align="center"> 
     <a href="https://www.linkedin.com/in/junjiewujay">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  </div>
 </div>
 
-<h1 align="center"> >>Hello, World! I'm Junjie (Jay) Wu :wave:</h1>
+<h1 align="center"> >> Hello, World! I'm Junjie (Jay) Wu :wave:</h1>
 
 ### :man_technologist: About Me :
-I am an electrical engineering :zap: and computer science student :computer: at UNSW who likes to program.
+I am an electrical engineering :zap: and computer science student :computer: at UNSW.
 
 - :mailbox: How to reach me **junjiewu0930@gmail.com**
 
--  :handshake: Connect with me &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-junjiewujay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/junjiewujay)
+-  :handshake: Connect with me on <a href="https://www.linkedin.com/in/junjiewujay">LinkedIn</a>
+ 
 
 <h3 align="left"> :hammer_and_wrench: Languages and Tools:</h3>
 <p align="left"> 
