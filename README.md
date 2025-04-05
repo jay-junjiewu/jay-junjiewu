@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=JayWu0045&style=flat-square&color=blue" alt=""/>
 </p>
 
----
-
 ### 👨‍💻 About Me
 I’m an Electrical Engineering ⚡ and Computer Science 💻 student at UNSW.
 
@@ -22,8 +20,6 @@ I’m an Electrical Engineering ⚡ and Computer Science 💻 student at UNSW.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
-
----
 
 ### 🛠️ Languages & Tools
 <p align="center">
@@ -50,12 +46,8 @@ I’m an Electrical Engineering ⚡ and Computer Science 💻 student at UNSW.
   </a> 
 </p>
 
----
-
 ### 📊 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-junjiewu&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
----
