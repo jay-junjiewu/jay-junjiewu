@@ -13,13 +13,20 @@
 ### 👨‍💻 About Me
 I’m an Electrical Engineering ⚡ and Computer Science 💻 student at UNSW.
 
-- 📬 Reach me: **jaywu0045@gmail.com**
-- 🤝 Connect: [LinkedIn](https://www.linkedin.com/in/junjiewujay)
+<p align="center">
+  <a href="mailto:jaywu0045@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" height="48" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/junjiewujay" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -45,7 +52,7 @@ I’m an Electrical Engineering ⚡ and Computer Science 💻 student at UNSW.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-junjiewu&layout=compact&theme=tokyonight" alt="Top Languages"/>
