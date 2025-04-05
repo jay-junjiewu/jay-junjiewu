@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://yt3.ggpht.com/djOFfRQsj45xwzEGcq4o39qPYe3AhYn9cVl8rwySnUQytZuT18OkQ2xf3PkuSvhQMpmVDOWlGeTjoRA=s480-c-fcrop64=1,2e9c0000bea9ffff-nd-v1" width="280"/>
+  <img src="https://yt3.ggpht.com/djOFfRQsj45xwzEGcq4o39qPYe3AhYn9cVl8rwySnUQytZuT18OkQ2xf3PkuSvhQMpmVDOWlGeTjoRA=s480-c-fcrop64=1,2e9c0000bea9ffff-nd-v1" width="320"/>
 </div>
 
 <h1 align="center">>> Hello, World! I'm Junjie (Jay) Wu 👋</h1>
