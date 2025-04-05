@@ -5,7 +5,7 @@
 <h1 align="center">>> Hello, World! I'm Junjie (Jay) Wu 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JayWu0045&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=jay-junjiewu&style=for-the-badge&color=blue" alt="view count"/>
 </p>
 
 ### 👨‍💻 About Me
